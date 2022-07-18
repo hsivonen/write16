@@ -2,7 +2,7 @@
 name = "write16"
 version = "1.0.0"
 edition = "2021"
-description = "A UTF-16 analog of the Write trait"
+description = "A UTF-16 analog of the core::fmt::Write trait"
 license = "Apache-2.0 OR MIT"
 readme = "README.md"
 documentation = "https://docs.rs/write16/"

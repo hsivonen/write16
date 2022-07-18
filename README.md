@@ -22,9 +22,9 @@ online.
 
 ## Features
 
-`alloc`: An implementation of `Write16` for `alloc::vec::Vec`.
-`smallvec`: An implementation of `Write16` for `smallvec::SmallVec`
-`arrayvec`: An implementation of `Write16` for `arrayvec::ArrayVec`
+* `alloc`: An implementation of `Write16` for `alloc::vec::Vec`.
+* `smallvec`: An implementation of `Write16` for `smallvec::SmallVec`
+* `arrayvec`: An implementation of `Write16` for `arrayvec::ArrayVec`
 
 ## Release Notes
 
